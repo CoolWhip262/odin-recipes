@@ -1,0 +1,10 @@
+h3 {
+    font-size: larger;
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+}
+img {
+    height: auto;
+    width: 400px;
+}

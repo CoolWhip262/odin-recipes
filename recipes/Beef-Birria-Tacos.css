@@ -1,0 +1,17 @@
+ul {
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ol {
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+h2,
+h3 {
+    text-align: center;
+}
